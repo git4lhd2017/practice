@@ -260,7 +260,7 @@
       <workItem from="1594190117143" duration="731000" />
       <workItem from="1594201669622" duration="14200000" />
       <workItem from="1595306129124" duration="555000" />
-      <workItem from="1595306694301" duration="1766000" />
+      <workItem from="1595306694301" duration="1833000" />
     </task>
     <task id="LOCAL-00001" summary="project integration - first">
       <created>1591170083540</created>
@@ -276,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595307139542</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新了项目依赖">
+      <created>1595308500890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595308500890</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +291,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project integration - first" />
-    <option name="LAST_COMMIT_MESSAGE" value="project integration - first" />
+    <MESSAGE value="更新了项目依赖" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了项目依赖" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="44" key="#Notifications" timestamp="1591170209505">
@@ -324,10 +332,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="467" y="249" width="431" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1590737464946" />
-    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1595307138776">
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1595308500406">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1595307138776" />
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1595308500406" />
     <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1591170080629" />
     <state x="216" y="134" key="FileChooserDialogImpl" timestamp="1595307220041">
       <screen x="0" y="0" width="1280" height="800" />
