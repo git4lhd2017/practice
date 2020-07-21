@@ -7,10 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddc56775-61fb-4e2b-9dc3-8e4a1388db31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/melloware/jintellitype/JIntellitype.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/melloware/jintellitype/JIntellitype64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,20 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="basicDemo" />
@@ -95,7 +107,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -248,7 +260,7 @@
       <workItem from="1594190117143" duration="731000" />
       <workItem from="1594201669622" duration="14200000" />
       <workItem from="1595306129124" duration="555000" />
-      <workItem from="1595306694301" duration="360000" />
+      <workItem from="1595306694301" duration="1766000" />
     </task>
     <task id="LOCAL-00001" summary="project integration - first">
       <created>1591170083540</created>
@@ -257,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591170083540</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project integration - first">
+      <created>1595307139542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595307139542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +296,10 @@
     </state>
     <state x="258" y="26" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1595306724767" />
     <state x="275" y="25" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1590738312979" />
+    <state x="233" y="59" key="#Vim_Emulation" timestamp="1595308132269">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="233" y="59" key="#Vim_Emulation/0.0.1280.800@0.0.1280.800" timestamp="1595308132269" />
     <state x="424" y="191" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590550457313">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -301,14 +324,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="467" y="249" width="431" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1590737464946" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591170080629">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1591170080629" />
-    <state x="216" y="134" key="FileChooserDialogImpl" timestamp="1595306402466">
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1595307138776">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="216" y="134" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1595306402466" />
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1595307138776" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1591170080629" />
+    <state x="216" y="134" key="FileChooserDialogImpl" timestamp="1595307220041">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="216" y="134" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1595307220041" />
     <state x="486" y="141" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1591170642260" />
     <state width="1322" height="133" key="GridCell.Tab.0.bottom" timestamp="1594231897514">
       <screen x="0" y="0" width="1366" height="768" />
@@ -346,10 +370,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="474" y="107" key="RollbackChangesDialog/0.0.1366.768@0.0.1366.768" timestamp="1593779782319" />
-    <state x="113" y="1" key="SettingsEditor" timestamp="1595306686351">
+    <state x="113" y="1" key="SettingsEditor" timestamp="1595308291629">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="113" y="1" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1595306686351" />
+    <state x="113" y="1" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1595308291629" />
     <state x="296" y="5" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1594202533089" />
     <state x="275" y="107" key="Vcs.Push.Dialog.v2" timestamp="1591171522573">
       <screen x="0" y="0" width="1366" height="768" />
@@ -371,9 +395,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="454" y="85" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1588316575711" />
-    <state x="384" y="185" key="git4idea.merge.GitPullDialog" timestamp="1591170410296">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="360" y="193" key="git4idea.merge.GitPullDialog" timestamp="1595307179542">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="360" y="193" key="git4idea.merge.GitPullDialog/0.0.1280.800@0.0.1280.800" timestamp="1595307179542" />
     <state x="384" y="185" key="git4idea.merge.GitPullDialog/0.0.1366.768@0.0.1366.768" timestamp="1591170410296" />
     <state x="53" y="87" key="new project wizard" timestamp="1591183225504">
       <screen x="0" y="0" width="1366" height="768" />
